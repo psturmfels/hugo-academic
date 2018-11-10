@@ -1,0 +1,20 @@
+# Theme metadata
+name = "redwine"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#A20707"
+primary_light = "#B82D17"
+primary_dark = "#821706"
+
+# Menu
+menu_primary = "#A20707" # 500
+menu_text = "#fff"
+menu_text_active = "#EC6526" # A100
+menu_title = "#fff"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
